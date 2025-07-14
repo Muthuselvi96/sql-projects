@@ -1,1 +1,23 @@
 
+**Project: Zagi Store Data Analysis (Teradata)**
+**Aim**
+To analyze sales, product, and store data from the Zagi Store database using SQL in Teradata to uncover patterns that support strategic retail decisions.
+
+**Scope**
+
+Identify high-selling products and regional sales trends
+
+Analyze store distribution and vendor pricing
+
+Apply SQL techniques like aggregation, filtering, subqueries, and set operations
+
+**Impact**
+
+Enhanced visibility into product performance
+
+Uncovered regional store density and sales activity
+
+Supported data-driven decisions for inventory and vendor management
+**Tools**
+MySQL Workbench
+DRAW IO
