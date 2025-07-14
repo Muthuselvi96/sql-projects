@@ -1,1 +1,43 @@
+** SQL Data Exploration of Pine Valley Furniture Company (PVFC)**
+**Overview**
+This project showcases my SQL querying skills using the Pine Valley Furniture Company (PVFC) database. The goal was to extract, filter, and organize key business information from various functional areas, including product lines, employee records, customer demographics, materials, vendor costs, and payments.
+
+The PVFC database reflects a real-world retail and manufacturing company, offering an ideal environment to explore enterprise-level data.
+
+** Project Purpose**
+To strengthen my ability to write structured and optimized SQL queries by:
+
+Accessing multiple related tables
+
+Filtering data using logical operators (WHERE, LIKE, IN, BETWEEN)
+
+Sorting and grouping results (ORDER BY, DISTINCT)
+
+Creating calculated fields for business use cases (e.g., cost for 100 units)
+
+**Scope of Work**
+Identify available product lines and material types
+
+Retrieve employee and customer details based on name, location, or pattern match
+
+Filter payments within specific value ranges
+
+Extract vendor costs and perform basic column-level calculations
+
+Practice effective data ordering and output formatting
+
+** Key Outcomes**
+Gained hands-on experience with querying a normalized relational database
+
+Demonstrated ability to interpret business questions and translate them into efficient SQL logic
+
+Improved familiarity with enterprise data structures commonly used in manufacturing and supply chain domains
+
+** Tools Used**
+DBMS: TUN (Teradata University Network)
+
+Database: db_pvfc11_big
+
+Language: SQL (Teradata SQL Syntax)
+
 
