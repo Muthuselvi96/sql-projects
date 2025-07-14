@@ -1,1 +1,47 @@
+**Project Aim**
+
+To apply relational database design principles and SQL logic to model and query complex real-world business cases. The project focuses on understanding entity relationships, designing ERDs, and interpreting relational constraints through practical scenarios from telecom, publishing, retail, art museums, and utility services.
+ **Scope**
+
+Analyze business problems and convert them into relational models and E-R diagrams
+
+Identify cardinalities, degrees of relationships, and normalization requirements
+
+Practice SQL logic in interpreting relationships and querying structured data
+
+Solve domain-specific data modeling problems across multiple industries:
+
+Cellular plans and devices
+
+Book publishing and authorship
+
+Art museum collections and exhibitions
+
+Utility billing and customer-location management
+**Process**
+
+E-R Diagram Analysis:
+Explored and interpreted provided ER diagrams and answered key relationship questions based on cardinality and entity behavior.
+
+Scenario-Based Modeling:
+Designed original ERDs for complex, multi-entity systems, including:
+
+Book-author-publisher relationships with royalty logic
+
+Museum asset tracking and gallery loans
+
+Customer-location-rate linkage for utility billing systems
+
+Conceptual to Logical Transition:
+Translated high-level business rules into accurate database designs, clearly documenting all assumptions and modeling decisions.
+
+**Impact & Learning Outcomes**
+
+Strengthened ability to design normalized database structures that reflect real-world business logic
+
+Gained hands-on experience with interpreting and representing complex relationships across multiple domains
+
+Built a strong foundation in data modeling, integrity constraints, and relationship design
+
+Prepared for practical applications of SQL through understanding how databases are constructed and queried from the ground up
 
